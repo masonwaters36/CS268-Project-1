@@ -11,7 +11,7 @@
     box-sizing: border-box;
     width: 25%;
     background-color: #444040;
-    height: 625px;
+    height: 655px;
     float: left;
     margin-top: 10px;
 }
@@ -20,12 +20,32 @@
     background-color: lightgray;
     box-sizing: border-box;
     width: 75%;
-    height: 625px;
+    height: 655px;
     font-size: 30px;
     margin-top: 10px;
     margin-bottom: 10px;
     overflow: auto;
     padding-left: 10px;
+    padding-top: 10px;
+}
+
+#bod2{
+    background-color: lightgray;
+    box-sizing: border-box;
+    width: 75%;
+    height: 655px;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    overflow: auto;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+#answers{
+    padding-top: 0px;
+    padding-left: 25px;
+    font-style: italic;
 }
 
 #footer{
@@ -33,7 +53,7 @@
     font-size: 20px;
     color: white;
     width: 100%;
-    height: 100px;
+    height: 70px;
     text-align: center;
     align-items: center;
     justify-content: center;
