@@ -42,6 +42,35 @@
     padding-top: 10px;
 }
 
+#bod3{
+    background-color: lightgray;
+    box-sizing: border-box;
+    width: 75%;
+    height: 655px;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    overflow: auto;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+#bod4{
+    background-color: lightgray;
+    box-sizing: border-box;
+    width: 75%;
+    height: 655px;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    overflow: auto;
+    padding-left: 10px;
+    padding-top: 10px;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
 #answers{
     padding-top: 0px;
     padding-left: 25px;
