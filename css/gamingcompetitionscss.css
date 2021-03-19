@@ -17,6 +17,9 @@
 }
 
 #bod{
+    display: grid;
+    overflow: auto;
+    grid-template: 450px repeat(6, 500px) / 3fr 4fr;
     background-color: lightgray;
     box-sizing: border-box;
     width: 75%;
@@ -51,4 +54,14 @@ li a{
 
 li a:hover:not(.active){
     background-color:black;
+}
+img{
+    width:100%;
+    max-width: 400px;
+    max-height: 60%;
+}
+.esport-desc{
+    text-align: center;
+    margin: auto;
+    overflow: hidden;
 }
