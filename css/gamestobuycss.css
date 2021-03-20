@@ -58,3 +58,10 @@ li a{
 li a:hover:not(.active){
     background-color:black;
 }
+
+.gamename{
+    display:inline;
+    padding: 50px;
+}
+
+
